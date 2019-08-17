@@ -1,10 +1,10 @@
 # Embuary Info language file
-# Addon Name: Embuary Info
-# Addon id: script.embuary.info
+# Addon Name: Embuary Info - Open dialog
+# Addon id: context.embuary.info
 # Addon Provider: sualfred
 msgid ""
 msgstr ""
-"Project-Id-Version: Embuary Helper\n"
+"Project-Id-Version: Embuary Info - Open dialog\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language-Team: \n"
